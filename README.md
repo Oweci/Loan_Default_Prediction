@@ -1,4 +1,10 @@
 #LoanDefaultPredictionModel
+#Librairies used
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 #Problem
 Fintech companies need to assess whether a customer is likely to repay a loan. Incorrect decisions can lead to financial losses.
@@ -43,3 +49,8 @@ The dataset contains customer financial and demographic information such as:
 - Add SMOTE for better imbalance handling
 - Deploy as a web app
 - Integrate with real-time loan systems
+
+## Model File
+
+The trained model file is not included due to size limitations.
+To recreate the model, run the notebook provided in this repository.

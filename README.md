@@ -1,5 +1,11 @@
 # Loan Default Prediction Model
+Project Highlights
 
+- Built a loan default prediction model using real-world data
+- Handled class imbalance (11% defaulters)
+- Improved recall from **1% → 38%**
+- Implemented **risk scoring system**
+- Applied **threshold tuning for business impact**
 ## Problem
 
 Loan default prediction is critical for financial institutions because it directly impacts risk management, loan approval decisions, and profitability.
